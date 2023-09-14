@@ -1,5 +1,5 @@
 Create instance:
-	attach IAM role to that instance(admin full prev role has to be created in IAM Role)
+	attach IAM role to that instance(admin full,ec2,s3,vpc,route53,cloudwatch,cloudformation,ekscluster, adminstrative-access full,prev role has to be created in IAM Role)
 	
 
 EKSCTL:	
